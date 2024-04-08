@@ -13,7 +13,7 @@ from tech to the best cycling routes.
 
 Happy exploring!
 
-# Project: Design preview for the Blog preview card coding challenge
+# Project: Social links profile coding challenge
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges that help to improve
 coding skills by building realistic projects.
@@ -22,7 +22,7 @@ coding skills by building realistic projects.
 
 ### Requirements
 
-Build out this blog preview card and get it looking as close to the design as
+Build out this social links profile and get it looking as close to the design as
 possible.
 
 Your users should be able to:
@@ -37,8 +37,8 @@ Your users should be able to:
 ### Links
 
 - Solution URL:
-  [FrontendMentor Challenge Hub](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub)
-- Live Site URL: [GitHub Pages](https://grifano.github.io/fm-02-blog-card/)
+  [FrontendMentor Challenge Hub](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
+- Live Site URL: [GitHub Pages](grifano.github.io/fm-03-social-links-profile/)
 
 ## Author
 
