@@ -37,7 +37,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL:
-  [FrontendMentor Challenge Hub](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
+  [FrontendMentor Solution Hub](https://www.frontendmentor.io/solutions/social-links-profile-component-grifano-QgPNEH8zi3)
 - Live Site URL: [GitHub Pages](grifano.github.io/fm-03-social-links-profile/)
 
 ## Author
